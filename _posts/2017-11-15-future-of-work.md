@@ -2,7 +2,7 @@
 layout: post
 title: "Automation and Work, Part I: Will Robots Take All Of Our Jobs?"
 category: "Economics"
-date: 2017-11-10
+date: 2017-11-15
 ---
 
 *This post is part of a three-part series on the impact of automation and artificial intelligence on the labor market, the economy and its consequences for society. These posts are a way for me to organize my thoughts on the topic and maybe find and raise some issues or questions which are currently missing from the discourse.*
