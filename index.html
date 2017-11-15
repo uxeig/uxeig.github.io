@@ -1,0 +1,64 @@
+---
+layout: default
+title: Humanoid
+---
+<link rel="stylesheet" type="text/css" href="/static/css/blog.css">
+<script src="/static/js/blog.js"></script>
+
+<div class="ui grid container">
+  <div id="page-header" class="row">
+    <div class="ui basic segment">
+      <h1 class="ui huge header">
+        {{ page.title }}
+      </h1>
+      <span class="subtitle">A blog about machine learning, robotics, economics and whatever else comes to mind.</span>
+    </div>
+  </div>
+  <div class="row" id="article">
+    <div class="eleven wide column">
+
+			{% for post in site.posts %}
+				<h2 class="ui sub header">
+		      {{ post.category }}
+		    </h2>
+		    <span>{{ post.date | date_to_string }}</span>
+        <h1 class="ui header"><a class="full_text_link" href="{{post.url}}">{{post.title}}</a></h1>
+        <div class="ui basic segment"><a class="full_text_link" href="{{post.url}}">{{ post.excerpt }}...</a></div>
+				<div class="ui divider"></div>
+		  {% endfor %}
+
+      <div class="ui basic segment">
+        <div class="ui basic large button">
+          <a href="#">Previous</a>
+        </div>
+        <div class="ui basic large button">
+          <a href="#">Next</a>
+        </div>
+      </div>
+    </div>
+    <div class="four wide right floated column">
+      <div class="ui secondary segment">
+        <h3 class="ui header">
+          About
+        </h3>
+        <p>
+          Under construction.
+        </p>
+      </div>
+      <h3 class="ui header">Archive</h3>
+      <div class="ui divided list">
+       {% for post in site.posts %}
+           {% assign currentDate = post.date | date: "%Y" %}
+           {% if currentDate != myDate %}
+               {% unless forloop.first %}</div></div>{% endunless %}
+               <div class="item"><h4 class="header">{{ currentDate }}</h4>
+               <div class="ui list">
+               {% assign myDate = currentDate %}
+           {% endif %}
+           <a class="item" href="{{ post.url }}"><span>{{ post.date | date: "%B %-d" }}</span> - {{ post.title }}</a>
+           {% if forloop.last %}</div></div>{% endif %}
+       {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

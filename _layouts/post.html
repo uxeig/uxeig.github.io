@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<link rel="stylesheet" type="text/css" href="/static/css/blog.css">
+<link rel="stylesheet" type="text/css" href="/static/css/post.css">
+<script src="/static/js/blog.js"></script>
+
+<div id="blogPost" class="ui container">
+  <div class="ui basic segment">
+    <h1 class="ui header">
+      {{ page.title }}
+    </h1>
+    <p class="meta">{{ page.date | date_to_string }}</p>
+  </div>
+  <div class="ui divider"></div>
+  <div class="ui basic segment">
+    {{ content }}
+  </div>
+  <div class="ui basic segment">
+    <div class="ui basic large button">
+      <i class="left blue chevron icon"></i>
+      <a href="/blog">Back</a>
+    </div>
+  </div>
+  <div class="comments">
+		{% include disqus.html %}
+	</div>
+</div>
