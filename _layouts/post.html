@@ -23,6 +23,8 @@ layout: default
     </div>
   </div>
   <div class="comments">
-		{% include disqus.html %}
+		{% if page.comments %}
+      {% include disqus.html %}
+    {% endif %}
 	</div>
 </div>

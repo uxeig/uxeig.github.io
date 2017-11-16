@@ -2,6 +2,7 @@
 layout: post
 title: "Automation and Work, Part I: Will Robots Take All Of Our Jobs?"
 category: "Economics"
+comments: true
 date: 2017-11-15
 excerpt: "Over the last few months, newspapers and magazines have published countless articles on robots replacing human workers, mainly in the manufacturing industry, in the not-too-distant future. In my own work on industrial robotics, I notice that in many sectors, repetitive or physically straining work can already easily replaced by off-the-shelf robotic solutions; other, less mechanical jobs, such as those requiring a sense of touch or dealing with flexible components, will be replaceable by the kinds of machines me and my colleagues are developing today."
 ---
