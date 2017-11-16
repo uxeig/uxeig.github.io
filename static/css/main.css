@@ -1,3 +1,7 @@
+body {
+  background-color: #F7F7F7;
+}
+
 .site {
   display: flex;
   min-height: 100vh;
