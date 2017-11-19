@@ -1,5 +1,14 @@
+* {
+  font-size: 12pt;
+}
+
 body {
   background-color: #F7F7F7;
+}
+
+::selection
+{
+  background: #54d9ff;
 }
 
 .site {
