@@ -17,14 +17,14 @@ layout: default
     {{ content }}
   </div>
   <div class="ui basic segment">
-    <div class="ui basic large button">
+    <a class="ui basic large button" href="/">
       <i class="left blue chevron icon"></i>
-      <a href="{{ site.url }}">Back</a>
-    </div>
+      Back
+    </a>
   </div>
   <div class="comments">
 		{% if page.comments %}
       {% include disqus.html %}
     {% endif %}
-	</div>
+  </div>
 </div>
