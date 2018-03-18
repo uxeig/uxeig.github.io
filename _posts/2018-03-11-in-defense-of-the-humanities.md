@@ -1,0 +1,27 @@
+---
+layout: post
+title: "In Defense of the Humanities"
+category: "Education"
+comments: true
+date: 2018-03-11
+excerpt: "In several countries, secondary schools and colleges are coming under fire for not adequately preparing students for the realities of the labor market. However, reducing the emphasis on liberal arts (and even theoretical mathematics and science) and aligning curricula with the perceived demands of the labor market would be short-sighted and detrimental to both students and employers."
+---
+
+A recent [article in the Atlantic](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/) inspired me to contribute to the ongoing discussion about the degree to which the Liberal Arts - literature, history, philosophy, mathematics and the social sciences - ought to be taught in the classrooms of universities and secondary schools. A number of critics such as Professor Bryan Caplan of George Mason University, the author of the aforementioned article, argue that a Liberal Arts education does not adequately prepare students for the labor market and their future jobs. In the article, he goes on to make the different, but related argument that encouraging an increasing number of students to study at four-year colleges is pushing credential inflation and makes students go to classes in which, lacking motivation, they do not learn much - in brief, that having to attend college just to be able to get a job is bad for a number of reasons. With this, I agree. It is the following paragraph of the article that made me stumble:
+
+> From kindergarten on, students spend thousands of hours studying subjects irrelevant to the modern labor market. Why do English classes focus on literature and poetry instead of business and technical writing? Why do advanced-math classes bother with proofs almost no student can follow? When will the typical student use history? Trigonometry? Art? Music? Physics? Latin? The class clown who snarks “What does this have to do with real life?” is onto something.
+
+As the author correctly identifies, much of what students learn over the course of a Liberal Arts curriculum is not directly convertible into skills needed at the workplace. But this is not necessarily bad: Demanding it would reduce education to the production of automata perfectly adapted for working in an office, completely unprepared for all other aspects of life. Indeed, in the long term, employers and the economy as a whole benefit more from Liberal Arts graduates than they might think.
+
+# Culture as the aim of education
+
+Much of Europe and parts of the U.S. essentially follow an education scheme devised by [Wilhelm von Humboldt](https://en.wikipedia.org/wiki/Wilhelm_von_Humboldt) in the beginning of the 19th century. Not only did he invent the three-tiered education system comprised of elementary school, secondary school and university, but he also emphasized the teaching of mathematics, history, philosophy, science and foreign languages to all students, irrespective of their future careers:
+
+> There are undeniably certain kinds of knowledge that must be of a general nature and, more importantly, a certain cultivation of the mind and character that nobody can afford to be without. People obviously cannot be good craftworkers, merchants, soldiers or businessmen unless, regardless of their occupation, they are good, upstanding and – according to their condition – well-informed human beings and citizens.
+
+According to Humboldt, school should not only be generalist in nature and cover subjects from the social, literary and natural sciences, but it should *explicitly not* aim to (at least exclusively) prepare students for their future professions. Instead, it should aim to "cultivate mind and character". For Humboldt, culture - literature, philosophy, oration and all other subjects which do not immediately prepare students for the labor market - should not only be taught; education very much *is* culture. This emphasizes an ancient and powerful idea dating back to at least Greek antiquity. The word "education" comes from the Latin verb "educere" which literally means "to draw out" - a presumably desired allegory to the growing of plants and produce out of the soil. "Culture" is also a part of "agriculture" and "horticulture"; again, culture is associated with growth. For the ancient Greeks, education aimed at culture, or personal growth. [Primary education in ancient Greece](https://en.wikipedia.org/wiki/Education_in_ancient_Greece#New_Education) consisted of music, dance, lyrics and poetry; higher education consisted of "mathematics, astronomy, harmonics and dialectic[s]" as well as philosophy, none of which were of immediate use in a workplace. Instead, education had the aim of developing man in his entirety, forming his character and providing a base for good judgment. In ancient Greece and Rome, in medieval Europe and even throughout the Renaissance, this mode of education remained a privilege of the elites. Children form working-class or merchant families either learned a trade or did not go to school altogether. Wilhelm von Humboldt's vision was to use education to bring culture to the masses; to provide the majority of students with a space for developing their characters.
+
+# Isn't this a bit naive? 
+
+At first sight, it seems na
+***
